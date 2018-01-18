@@ -1,0 +1,16 @@
+{
+  "name": "react-redux-env",
+  "version": "1.0.0",
+  "description": "\"A boilerplate to work with React and Redux\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "test"
+  },
+  "author": "Hiago Machado",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.0"
+  }
+}
